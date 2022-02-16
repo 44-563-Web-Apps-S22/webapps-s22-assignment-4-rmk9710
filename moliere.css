@@ -1,0 +1,11 @@
+.name {font-size: 24;
+color: black;}
+p.direction {font-size: 12;
+color: black;
+background-color: lightblue;}
+p.speech {font-size: 12;
+color:black}
+p.direction.hover{background-color: aquamarine;
+color: azure;}
+.master{color: brown;}
+.jourdain{color: aqua;}
