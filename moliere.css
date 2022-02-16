@@ -1,5 +1,8 @@
-.name {font-size: 24;
-color: black;}
+h5.name {font-size: 24;
+color: black;
+text-shadow:3px 5px 8px burlywood;
+border: 1ch;
+border-style: dashed;}
 p.direction {font-size: 12;
 color: black;
 background-color: lightblue;}
@@ -7,5 +10,5 @@ p.speech {font-size: 12;
 color:black;}
 p.direction.hover{background-color: aquamarine;
 color: azure;}
-.master{color: brown;}
-.jourdain{color: aqua;}
+h5.master{color: brown;}
+h5.jourdain{color: aqua;}
